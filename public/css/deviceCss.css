@@ -1,0 +1,9 @@
+.deviceBody {
+    background-image: url(/image/OfficeIoT.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.deviceTitle {
+    margin: 50px auto;
+}

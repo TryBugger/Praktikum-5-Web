@@ -1,0 +1,27 @@
+.homeImageBackground {
+    width: 100%;
+    height: calc(100vh - 1rem - 55px);
+}
+
+.homeTextHeader {
+    position: absolute;
+
+    background-color: white;
+
+    top: calc((100vh - 1rem - 55px) / 2 - 30px);
+    left: 130px;
+
+    color: black;
+}
+
+.homeTextCaption {
+    position: absolute;
+
+    background-color: black;
+
+    top: calc((100vh - 1rem - 55px) / 2 + 30px);
+    left: 130px;
+
+    color: white;
+    font-size: 18px;
+}

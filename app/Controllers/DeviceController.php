@@ -17,6 +17,7 @@ class DeviceController extends BaseController
         $datas = [
             'title' => 'Device | Office IOT Monitoring',
             'activeNav' => ['', ' active'],
+            'css' => '/css/deviceCss.css',
             'dataDevice' => $this->database->findAll()
         ];
 

@@ -8,7 +8,8 @@ class HomeController extends BaseController
     {
         $datas = [
             'title' => 'Home | Office IOT Monitoring',
-            'activeNav' => [' active', '']
+            'activeNav' => [' active', ''],
+            'css' => '/css/homeCss.css'
         ];
         echo view('pages/home', $datas);
     }

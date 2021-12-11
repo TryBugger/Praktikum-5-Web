@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <p class="text-center bg-light fs-5 border rounded rounded-3" style="font-weight:bold">Tabel Data Device</p>
+                <p class="text-center bg-light fs-5 border rounded rounded-3 deviceTitle" style="font-weight:bold">Tabel Data Device</p>
                 <table class="table table-hover align-middle">
                     <thead class="table-dark">
                         <tr>
